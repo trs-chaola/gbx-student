@@ -21,7 +21,7 @@
 
 // ** MySQL 設定 - この情報はホスティング先から入手してください。 ** //
 /** WordPress のためのデータベース名 */
-define('DB_NAME', 'globalit-academy');
+define('DB_NAME', 'gbx-student');
 
 /** MySQL データベースのユーザー名 */
 define('DB_USER', 'root');
